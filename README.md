@@ -241,4 +241,4 @@ K-Lite Codec Pack is offered as a complete free version with all features and up
 Unlock the full potential of your multimedia experience today! Download K-Lite Codec Pack for free and enjoy hassle-free playback of all your audio and video files.
 
 ---
-**Last updated:** 2026-09-14 19:16:44 UTC
+**Last updated:** 2026-09-14 23:03:25 UTC
